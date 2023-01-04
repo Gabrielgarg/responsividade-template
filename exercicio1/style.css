@@ -1,17 +1,22 @@
 #texto-fonte-root{
-
+    /* Aumentando o tamanho da fonte */
+    font-size: 3rem;
 }
 
 #texto-paddings-verticais{
-
+    /* padding: top right bottom left */
+    /* padding valor pra todas as direcoes */
+    /* padding vertical horizontal */
+    padding: 2em 0;
 }
 
 #altura-porcentagem-comprimento{
-
+    /* Usando o valor do comprimeiro aumenta a altura tb */
+    height: 20vw;
 }
 
 #comprimento-metade-altura{
-
+    width: 50vh;
 }
 
 .container{
@@ -21,13 +26,14 @@
 }
 
 #fonte-setenta{
-
+    font-size: 0.7em;
 }
 
 #comprimento-pai{
-
+    width: 10%;
+    background-color: blue;
 }
 
 #altura-pai{
-
+    height: 10%;
 }
